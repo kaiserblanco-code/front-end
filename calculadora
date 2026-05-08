@@ -19,7 +19,7 @@
         }
 
         h1 {
-            color: rgb(121, 5, 236);
+            color: rgb(5, 9, 236);
             font-family: arial;
             font-size: 100%;
             font-weight: bold;
@@ -27,7 +27,7 @@
         }
 
         h5 {
-            color: rgb(168, 8, 29);
+            color: rgb(24, 22, 22);
             font-family: arial;
             font-size: 60%;
             font-weight: bold;
@@ -35,13 +35,13 @@
         }
 
         main {
-            background-color: purple;
+            background-color: rgb(23, 7, 255);
             width: 100%;
             height: 80%;
         }
 
         footer {
-            background-color: rgb(17, 128, 0);
+            background-color: rgba(233, 0, 12, 0.788);
             width: 100%;
             height: 10%;
         }
@@ -61,7 +61,7 @@
 
         .menu_principal a {
             text-decoration: none;
-            color: black;
+            color: rgb(247, 0, 0);
             padding: 10px 15px;
             display: block;
         }
@@ -115,19 +115,19 @@
 <body>
     <header>
         <h1>BARBEARIA DO 2°A</h1>
-        <h5>Te deixando bonitinho desde 1974</h5>
-        <ul class="menu_principal">
-            <li>
-                <a href="">Home</a>
-            </li>
-            <li>
-                <a href="">Serviços</a>
-                <ul class="dropdown">
-                    <li>Corte Maculino
-                        <ul class="menu">
-                            <li>
-                                Cabelo
-                            </li>
+<h5>bonito e elegante, com um soriso </h5>
+<ul class="menu_principal">
+<li>
+    <a href="">Home</a>
+    </li>
+<li>
+ <a href="">Serviços</a>
+    <ul class="dropdown">
+    <li>Corte Maculino
+    <ul class="menu">
+        <li>
+    Cabelo
+    </li>
                             <li>
                                 Barba
                             </li>
@@ -174,6 +174,7 @@
 </body>
 
 </html>
+
 
 
 
